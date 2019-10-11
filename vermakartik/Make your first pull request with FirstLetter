@@ -1,0 +1,20 @@
+Before making your first pull request don't forget to signup with Github and register on [Hacktober Fest 2019](https://hacktoberfest.digitalocean.com) website.
+
+Read [Here](https://firstletter.github.io/howto) for more information
+
+To make your pull requests using First Letter you have to follow the following steps:
+
+Click on the Signin with Github button and then enter your github credentials.
+
+Wait for you to SignIn to your Github Account.
+
+On your home screen, are displayed your Merged Files and your Local Fork.
+If you have not written any __letters__ yet then it will ask you to create a fork. Click on the Fork button to create your fork.
+
+Now Go to __contents > Editor__ and start editing once done save your changes by clicking on the save button which basically makes a *commit* on your behalf to your local Fork. 
+
+Once done Go to __Content > My Pulls__ and click on *create pull request*.
+
+Now Lie back and wait for your pull request to merge. 
+
+__\[Imporant\]__: You can't make multiple pull requests here. Otherwise it will throw an error
