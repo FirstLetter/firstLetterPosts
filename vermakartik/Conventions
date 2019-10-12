@@ -1,0 +1,12 @@
+Here are a few things to keep in mind while writing article before making pull requests:
+
+1. Please write your article in [Markdown](https://guides.github.com/features/mastering-markdown/) only.
+2. Please keep your article short since size matters for *readers* and *storage*. 
+3. To use images you can provide links to raw images on your google drive or google images because you can't upload images here.
+4. Also, write one article per pull request. 
+
+Always save your articles after writing them by clicking on the save button because firstletter does not save your data anywhere except for your username for security and storage(Since its an open source project that is not funded.)
+
+You can view your pull request status on your github account. All your articles will be publicly available on [this repository](https://github.com/firstletter/firstletterposts/)
+ 
+If you want to support this project or donate to the developer I will soon add details for it. You can reach me. Get my details [here](https://vermakartik.github.io). 
