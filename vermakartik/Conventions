@@ -5,6 +5,15 @@ Here are a few things to keep in mind while writing article before making pull r
 3. To use images you can provide links to raw images on your google drive or google images because you can't upload images here.
 4. Also, write one article per pull request. 
 
+## What kinds of post can I share?
+
+Make sure your posts share some knowledge, or are entertaining. It can be based on anything like
+
+* Programming
+* Your poems
+* Your Personal Experiences. 
+* anything else, that a creative mind can think.
+
 Always save your articles after writing them by clicking on the save button because firstletter does not save your data anywhere except for your username for security and storage(Since its an open source project that is not funded.)
 
 You can view your pull request status on your github account. All your articles will be publicly available on [this repository](https://github.com/firstletter/firstletterposts/)
