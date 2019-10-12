@@ -11,7 +11,9 @@ Wait for you to SignIn to your Github Account.
 On your home screen, are displayed your Merged Files and your Local Fork.
 If you have not written any __letters__ yet then it will ask you to create a fork. Click on the Fork button to create your fork.
 
-Now Go to __contents > Editor__ and start editing once done save your changes by clicking on the save button which basically makes a *commit* on your behalf to your local Fork. 
+Now Go to __contents > Editor__ and start editing once done save your changes by clicking on the save button which basically makes a *commit* on your behalf to your local Fork.
+ 
+\[Markdown\]: All your articles should be in markdown. Here is a simple and beautiful [post](https://guides.github.com/features/mastering-markdown/) to get you started with markdown
 
 Once done Go to __Content > My Pulls__ and click on *create pull request*.
 
